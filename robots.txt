@@ -1,2 +1,6 @@
 User-agent: *
+Allow: /guide/
+Allow: /$
 Disallow: /
+
+Sitemap: https://admirenola-prog.github.io/sitemap.xml
